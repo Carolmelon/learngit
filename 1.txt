@@ -2,6 +2,4 @@ some words
 another words
 git跟踪修改
 愚蠢SVN
-dev/master:创建一个新分支很快
-beta:在beta分支上提交一次
-NOTE: 合并冲突分支，保留双方内容
+bug分支，用于紧急修复bug
