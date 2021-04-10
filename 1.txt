@@ -2,3 +2,4 @@ some words
 another words
 git跟踪修改
 愚蠢SVN
+在beta分支上提交一次
