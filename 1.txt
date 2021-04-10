@@ -2,3 +2,4 @@ some words
 another words
 git跟踪修改
 愚蠢SVN
+bug分支，用于紧急修复bug
